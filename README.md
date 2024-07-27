@@ -1,8 +1,8 @@
 # 🟣 Purple Sale 
 Purple Sale is a decentralized launchpad platform that allows users to create and sell tokens through initial token sales without needing to know how to code. It's built on blockchain technology to provide a secure, transparent, and easy-to-use solution for new crypto projects. 
-- ## [All Version Deployed Link](#version)
+- [All Version Deployed Link](#version)
 
-- ## [DOC](#doc)
+- [DOC](#doc)
 ---
 # Version
 ## ⁐⇨ Version 3 of Purplesale
