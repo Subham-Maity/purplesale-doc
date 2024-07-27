@@ -1,5 +1,3 @@
-![1](https://github.com/user-attachments/assets/d27a9050-b589-4321-8e68-0389d9d6918f)# Purple Sale (Inspired By [PinkSale](https://www.pinksale.finance/))
-
 ---
 ---
 ## ⁐⇨ Version 3 of Purplesale
