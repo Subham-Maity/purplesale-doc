@@ -8,7 +8,7 @@ Purple Sale is a decentralized launchpad platform that allows users to create an
 
 ## ⁐⇨ Version 4 of Purplesale
 
-#### 🔖 05_v43_main_net_test_net - DEGEN (For User)
+#### 🔖 05_v4_main_net_test_net - DEGEN (For User)
 > Version 3 of Purplesale (Main Net and Test Net - Sepolia, Polygon, Avalanche, Arbitrum, Ethereum)
 
 <a href="https://purplesale-production-tawny.vercel.app/">![](https://github.com/user-attachments/assets/e33fece3-a6f9-4375-a46f-5c5a6ca145e3)</a>
