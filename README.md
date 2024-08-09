@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ## ⁐⇨ Version 3 of Purplesale
 #### 🔖 04_v3_main_net_test_net -  ALPHA (For Owner)
-> Version 3 of Purplesale (Main Net and Test Net - Polygon Mumbai, Polygon, Avalanche, Arbitrum, Ethereum)
+> Version 4 of Purplesale (Main Net and Test Net - Polygon Mumbai, Polygon, Avalanche, Arbitrum, Ethereum)
 
 
 <a href="https://purplesale-v3-alpha.vercel.app">![](https://github.com/user-attachments/assets/e33fece3-a6f9-4375-a46f-5c5a6ca145e3)</a>
